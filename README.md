@@ -31,7 +31,7 @@ Register site: https://goo.gl/forms/bonVIfWwsmYO2JeB2
  
 Submissions should provide following items:
  1. **Source code** (compiliable with necessary descriptions)
- 2. **Restoration results** of corresponding degraded videos
+ 2. **Restoration results** of corresponding degraded videos (Parameters/models should NOT be set manually for each video)
  3. **Training/inferencing scripts** and **models** 
  4. Any other necessary files if applicable to reproduce the results. 
  5. Detailed **technical description and complexity analysis** in the form of a short paper are also required for evaluation.
