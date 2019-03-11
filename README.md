@@ -52,4 +52,14 @@ Comming soon... (To be opened on 13 May 2019)
  **01 July 2019**   Notification of acceptance of the Challenge submission and accompanying papers (optional)\
  **15 July 2019**   Camera ready submission of accepted papers (optional)\
  **22 Sep 2019**    Announcement of the Challenge results, presentations, awards 
+ 
+## Coordinators
+Yunfei Zheng,   Kwai Inc., USA （yunfeizheng@kuaishou.com)\
+Bing Yu,        Kuaishou, China (yubing@kuaishou.com)\
+Xing Wen,       Kwai Inc., USA   (wenxing@kuaishou.com)\
+Jiajie Zhang,   Kuaishou, China (zhangjiajie@kuaishou.com)
+
+## Questions and Answers
+If you have any questions or requests, or need further clarifications, please contact the [organizers](mailto:yunfeizheng@kuaishou.com).
+
 
