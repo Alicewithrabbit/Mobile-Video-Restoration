@@ -15,7 +15,7 @@
 
 3. Output file will be generated into “**results**” folder (temporal files are in “**streams**” and logs can be found in **run.log**)
 
-4. Please contact  xxxx@kuaishou.com for bugs or further infomation
+4. Please contact Yunfei (yunfeizheng@kuaishou.com) for bugs or further infomation
 
 # Decoded information 
 
