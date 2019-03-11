@@ -23,7 +23,7 @@ We emphasize both the the quality of the restored videos and the usablity of the
 
 ## Awards
  
-We will award the top team for each category.
+We will award **$1500** to the top team for each category.
  
 ## Submission Guidelines
  
