@@ -19,11 +19,11 @@ A set of degraded videos captured by mobile devices will be given to participant
  
 Restoration results of each proposal will be evaluated using objective (e.g., PSNR/SSIM) and subjective (MOS) quality metrics. The speed of each algorithm given limited resources will also be measured. The alogrithm will be run on the machine of GeForce GTX 1080 Ti or Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz, on which is in favor of your alogorithm.
 
-We emphasize both the the quality of the restored videos and the usablity of the algorithm in real world. So we will sort the submitted propsals in two categories. In category one, we will rank the proposals based only on restored video qualities. In category two, we will rank the proposals based on both qualities and also speeding/efficiency (e.g., 720p@30 fps on our daily server set-up mentioned above).
+We emphasize both the the quality of the restored videos and the usablity of the algorithm in real world. So we will sort the submitted propsals in two categories. In **category one**, we will rank the proposals based only on restored video qualities. In **category two**, we will rank the proposals based on both qualities and also speeding/efficiency (e.g., 720p@30 fps on our daily server set-up mentioned above).
 
 ## Awards
  
-We will award **$1500** to the top team for each category.
+We will award **$1500** to the solution which achieves the best restored video quality, and award **$1500** to the solution which achieves the best balance between visual quality and speed.
  
 ## Submission Guidelines
  
