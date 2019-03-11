@@ -23,7 +23,7 @@ We emphasize both the the quality of the restored videos and the usablity of the
 
 ## Awards
  
-TBD.
+We will award the top team for each category.
  
 ## Submission Guidelines
  
