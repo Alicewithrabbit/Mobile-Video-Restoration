@@ -29,7 +29,12 @@ TBD.
  
 Register site: https://goo.gl/forms/bonVIfWwsmYO2JeB2
  
-Submissions should provide **restoration results** of corresponding degraded videos, **source code**, **training/inferencing scripts**, **models** and any other necessary files if applicable to reproduce the results. Detailed **technical description and complexity analysis** in the form of a short paper are also required for evaluation.
+Submissions should provide following items:
+ 1. Source code** (compiliable with necessary descriptions)
+ 2. **Restoration results** of corresponding degraded videos
+ 3. **Training/inferencing scripts** and **models** 
+ 4. Any other necessary files if applicable to reproduce the results. 
+ 5. Detailed **technical description and complexity analysis** in the form of a short paper are also required for evaluation.
 
 Participants are encouraged to submit a paper on their proposal (not mandatory) following ICIP 2019 guidelines. The authors of the companion papers will be notified after a technical review process and the authors of the accepted papers need to prepare a camera-ready version so that their papers can be published by IEEEXplore under the name of "International Conference on Image Processing Challenges (ICIPC)". For the exact formatting guidelines (e.g., template, page limit, etc.), refer to the ICIP 2019 Website (http://2019.ieeeicip.org).
 
@@ -40,11 +45,11 @@ Dataset of degraded videos can be downloaded from: https://github.com/ICIPChalle
 Comming soon... (To be opened on 13 May 2019)
 
 ## Important Dates
- **13 May 2019**   Deadline for pre-registration to the Challenge\
- **13 May 2019**   Submission site open\
- **27 May 2019**   Deadline for submission of solutions to the Challenge for evaluation\
- **27 May 2019**   Deadline for submission of accompanying paper for possible publication at ICIP 2019 (optional) \
- **01 July 2019**  Notification of acceptance of the Challenge submission and accompanying papers (optional)\
- **15 July 2019**  Camera ready submission of accepted papers (optional)\
- **22 Sep 2019**   Announcement of the Challenge results, presentations, awards 
+ **13 May 2019**    Deadline for pre-registration to the Challenge\
+ **13 May 2019**    Submission site open\
+ **27 May 2019**    Deadline for submission of solutions to the Challenge for evaluation\
+ **27 May 2019**    Deadline for submission of accompanying paper for possible publication at ICIP 2019 (optional) \
+ **01 July 2019**   Notification of acceptance of the Challenge submission and accompanying papers (optional)\
+ **15 July 2019**   Camera ready submission of accepted papers (optional)\
+ **22 Sep 2019**    Announcement of the Challenge results, presentations, awards 
 
