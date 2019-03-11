@@ -30,7 +30,7 @@ TBD.
 Register site: https://goo.gl/forms/bonVIfWwsmYO2JeB2
  
 Submissions should provide following items:
- 1. Source code** (compiliable with necessary descriptions)
+ 1. **Source code** (compiliable with necessary descriptions)
  2. **Restoration results** of corresponding degraded videos
  3. **Training/inferencing scripts** and **models** 
  4. Any other necessary files if applicable to reproduce the results. 
