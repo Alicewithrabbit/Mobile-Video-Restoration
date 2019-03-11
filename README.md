@@ -42,9 +42,9 @@ Comming soon... (To be opened on 13 May 2019)
 ## Important Dates
  **13 May 2019**   Deadline for pre-registration to the Challenge\
  **13 May 2019**   Submission site open\
- **27 May 2019**   Deadline for submission of solutions to the Challenge for evaluation\ 
- **27 May 2019**   Deadline for submission of accompanying paper for possible publication at ICIP 2019 (optional)\ 
- **01 July 2019**  Notification of acceptance of the Challenge submission and accompanying papers (optional)\ 
- **15 July 2019**  Camera ready submission of accepted papers (optional)\ 
+ **27 May 2019**   Deadline for submission of solutions to the Challenge for evaluation\
+ **27 May 2019**   Deadline for submission of accompanying paper for possible publication at ICIP 2019 (optional) \
+ **01 July 2019**  Notification of acceptance of the Challenge submission and accompanying papers (optional)\
+ **15 July 2019**  Camera ready submission of accepted papers (optional)\
  **22 Sep 2019**   Announcement of the Challenge results, presentations, awards 
 
