@@ -10,7 +10,9 @@
 2. running following cmd
 
    ```
-   sh getDecoderInfor.sh
+   # Mac and Linux
+   # remove "dump" if you only need decoded YUV without additional info
+   sh getDecoderInfor.sh dump
    ```
 
 3. Output file will be generated into “**results**” folder (temporal files are in “**streams**” and logs can be found in **run.log**)
