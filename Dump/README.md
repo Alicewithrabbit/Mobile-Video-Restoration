@@ -1,5 +1,5 @@
 
-# Binary 
+# Dump Decoding Info 
 
 ### How to run
 
