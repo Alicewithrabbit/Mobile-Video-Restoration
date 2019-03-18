@@ -5,7 +5,7 @@
 
 **TODO**: Binary location example/dumpdecoderinfor
 
-1. Put all mp4 file into “**seq**” folder
+1. Put all mp4 file into `seq` folder
 
 2. running following cmd
 
@@ -15,7 +15,7 @@
    sh getDecoderInfor.sh dump
    ```
 
-3. Output file will be generated into “**results**” folder (temporal files are in “**streams**” and logs can be found in **run.log**)
+3. Output file will be generated into `results` folder (temporal files are in `streams` and logs can be found in `run.log`)
 
 4. Please contact Yunfei (yunfeizheng@kuaishou.com) for bugs or further infomation
 
@@ -40,7 +40,7 @@
 
 4. The format of each output item is:
 
-   1. First showing the level and description of current info (e.g. "++++     Inter 0   Intra 1")
+   1. First showing the level and description of current info (e.g. `++++     Inter 0   Intra 1`)
 
    2. Then showing detailed info in following item in 4x4 unit (like prediction directions for this intra example)
 
@@ -219,5 +219,5 @@
 
 ### Noted
 
-1. The QP info for skip mode and TU with cbf==0 are not accurate. The output value is only repeating the one of last non-skip TU. So the QP is only valid when cbr ==1.
-2. Please ignore the MV info of the frame boundary which is expanding outside the frame size. The mode is showing -1 and MV value is uninitialized.
+1. The QP info for skip mode and TU with `cbf==0` are not accurate. The output value is only repeating the one of last non-skip TU. So the QP is only valid when `cbr ==1`.
+2. Please ignore the MV info of the frame boundary which is expanding outside the frame size. The mode is showing `-1` and MV value is uninitialized.
