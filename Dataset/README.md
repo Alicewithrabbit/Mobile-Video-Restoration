@@ -6,9 +6,9 @@ Folder `dev` contains 24 degraded videos. Their corresponding high-quality versi
 
 Folder `eval` contains 12 degraded videos, which will be used to evaluate the performance of submissions.
 
-## Note: The valid frame numbers may varies from origial and degraded videos.
+## Note: The valid frame numbers may vary from original to degraded videos.
 
-In order to simulated cutting/truncating operations during transfering file over different platforms, the valid frame number may be different from original/degraded videos.
+In order to simulate cutting/truncating operations during transferring file over different platforms, the valid frame number may be different from original/degraded videos.
 
 During your training processing, please only follow valid frame numbers for each orig/dev pair.
 
