@@ -41,7 +41,18 @@ Participants are encouraged to submit a paper on their proposal (not mandatory) 
 ## Materials/Dataset URL
 Dataset of degraded videos can be downloaded from: https://github.com/ICIPChallenge2019/Mobile-Video-Restoration
  
-## Submission Site
+## Submission Guideline
+### Guideline
+Submissions should provide following items:
+1. Source code (compiliable with necessary descriptions)
+2. Restoration results (see folder Encoder_for_Results) of corresponding degraded videos (Parameters/models should NOT be set manually for each video)
+3. Training/inferencing scripts and models
+4. Any other necessary files if applicable to reproduce the results
+5. Detailed technical description and complexity analysis in the form of a short paper are also required for evaluation
+Participants are encouraged to submit a paper on their proposal (not mandatory) following ICIP 2019 guidelines. The authors of the companion papers will be notified after a technical review process and the authors of the accepted papers need to prepare a camera-ready version so that their papers can be published by IEEEXplore under the name of "International Conference on Image Processing Challenges (ICIPC)". For the exact formatting guidelines (e.g., template, page limit, etc.), refer to the ICIP 2019 Website (http://2019.ieeeicip.org).
+### Challenge Papaer Submission Page
+https://cmsworkshops.com/ICIP2019/Papers/Submission.asp?Type=Challenge&ID=5
+### Submission site
 Comming soon... (To be opened on 13 May 2019)
 
 ## Important Dates
